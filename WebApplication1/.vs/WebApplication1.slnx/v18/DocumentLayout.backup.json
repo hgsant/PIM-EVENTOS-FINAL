@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santo\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\migrations\\20260514005521_usuarionoseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\migrations\\20260514005521_usuarionoseventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\views\\eventos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\views\\eventos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\eventospro.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\eventospro.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\services\\iaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\services\\iaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\views\\eventos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\views\\eventos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\views\\eventos\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\views\\eventos\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\migrations\\20260511210220_criandotabelaevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\migrations\\20260511210220_criandotabelaevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\migrations\\20260511205635_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\migrations\\20260511205635_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\migrations\\20260511221552_criandotabelaeventos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\migrations\\20260511221552_criandotabelaeventos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\migrations\\20260512234139_addanaliseia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\migrations\\20260512234139_addanaliseia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|c:\\users\\santo\\source\\repos\\webapplication1\\webapplication1\\migrations\\20260513013157_identitylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CAC462-7E86-4DEF-3157-72E5FF63407B}|WebApplication1\\EventosPRO.Web.csproj|solutionrelative:webapplication1\\migrations\\20260513013157_identitylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260514005521_UsuarioNosEventos.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260514005521_UsuarioNosEventos.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260514005521_UsuarioNosEventos.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260514005521_UsuarioNosEventos.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260514005521_UsuarioNosEventos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T00:55:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T01:57:33.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Eventos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Eventos\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Eventos\\Editar.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Eventos\\Editar.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T23:10:59.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Eventos\\Criar.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Eventos\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Eventos\\Criar.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Eventos\\Criar.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T21:58:10.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAG4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T21:49:03.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Eventos\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Eventos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Eventos\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Eventos\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwG8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T21:36:41.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:32:06.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260511210220_CriandoTabelaEvento.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260511210220_CriandoTabelaEvento.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260511210220_CriandoTabelaEvento.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260511210220_CriandoTabelaEvento.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260511210220_CriandoTabelaEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T21:02:20.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Evento.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T20:58:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T20:49:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventosPRO.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\EventosPRO.Web.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\EventosPRO.Web.csproj",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\EventosPRO.Web.csproj",
+              "RelativeToolTip": "WebApplication1\\EventosPRO.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T20:26:05.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260513013157_IdentityLogin.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260513013157_IdentityLogin.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260513013157_IdentityLogin.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260513013157_IdentityLogin.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260513013157_IdentityLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T01:31:57.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T20:48:56.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAService.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Services\\IAService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IAService.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Services\\IAService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IAService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:37:22.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260512234139_AddAnaliseIA.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260512234139_AddAnaliseIA.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260512234139_AddAnaliseIA.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260512234139_AddAnaliseIA.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260512234139_AddAnaliseIA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:41:39.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260511205635_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260511205635_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260511205635_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260511205635_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260511205635_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T20:56:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260511221552_CriandoTabelaEventos2.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260511221552_CriandoTabelaEventos2.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260511221552_CriandoTabelaEventos2.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20260511221552_CriandoTabelaEventos2.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260511221552_CriandoTabelaEventos2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:15:52.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\santo\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T20:44:45.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
